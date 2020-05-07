@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+7 May 2020 README.md
 
 ### Project Title
-Replace the Project Title
+Bike Share Analytics
 
 ### Description
-Describe what your project is about and what it does
+An interactive tool to help guide  the user through selecting  different data sets extracted from a Bike Sharing company. The data includes trip duration, station location, user types and trip time stamps.
+
 
 ### Files used
-Include the files used
+python_project_1
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+credit goes to Udacity on guiding me through the process of developing this code and my tutor Rafay Siddiqui. 
 
